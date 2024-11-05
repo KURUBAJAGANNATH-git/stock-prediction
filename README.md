@@ -1,1 +1,1 @@
-# stock-prediction
+This is a Machine Learning model that uses keras to precit the value of a particular stock. The stock data of last few decades has been trained and implemented for the prediction purpose. This consists of 2 files 
